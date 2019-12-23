@@ -15,14 +15,7 @@
 <td><input type="password" name="pass" ></td>
 </tr>
 
-<tr>
-<td>Education</td>
-<td><select name="edu" >
-<option>Mba</option>
-<option>bba</option>
-<option>ma</option>
-</td>
-</tr>
+
 
 <tr>
 <td>hobbies</td>
